@@ -1,6 +1,6 @@
 # Email Extractor
 
-A simple Python automation script developed as part of the **CodeAlpha Python Programming Internship**. This project extracts all email addresses from a text file using **Regular Expressions (Regex)** and saves them into a separate file.
+ This project extracts all email addresses from a text file using **Regular Expressions (Regex)** and saves them into a separate file.
 
 # Project Description
 
