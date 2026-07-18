@@ -85,16 +85,7 @@ hr@company.org
 - Regular Expressions (`re`)
 - File Handling
 - Input/Output
-- String Processing
-
-# Internship Task
-
-**Task 3:** Task Automation with Python Scripts
-
-**Selected Idea:** Extract all email addresses from a text file and save them into another file.
-
-**Internship:** CodeAlpha Python Programming Internship
-
+- String Process
 
 # Author
 
